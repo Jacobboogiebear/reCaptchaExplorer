@@ -1,0 +1,9 @@
+{
+  "name": "recaptchaexplorer",
+  "version": "0.0.1-alpha",
+  "description": "A tool for streaming data out of a recaptcha tool in puppeteer",
+  "main": "index.js",
+  "repository": "https://github.com/Jacobboogiebear/reCaptchaExplorer.git",
+  "author": "jacobboogiebear <jacobboogiebear@icloud.com>",
+  "license": "MIT"
+}
